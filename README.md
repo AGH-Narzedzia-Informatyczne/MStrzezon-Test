@@ -1,1 +1,1 @@
-# MStrzezon-Test
+# Repozytorium testowe w ramach organizacji
